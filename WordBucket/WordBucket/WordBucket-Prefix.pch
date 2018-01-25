@@ -1,0 +1,30 @@
+//
+// Prefix header for all source files of the 'WordBucket' target in the 'WordBucket' project
+//
+
+#import <Availability.h> 
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "Defines.h"
+    #import "NSMutableArray+Shuffling.h"
+    #import "Common.h"
+    #import "DBHelper.h"
+    #import "NSString+Utilities.h"
+    #import "JSON.h"
+#import "GAITrackedViewController.h"
+#import "GAIDictionaryBuilder.h"
+
+#endif
+#if !__has_feature(objc_arc)
+//Do manual memory management...
+#else
+//Usually do nothing...
+#endif
+
+#import "DBHelper.h"

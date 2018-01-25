@@ -1,0 +1,343 @@
+/* Localized versions of Info.plist keys */
+
+
+////////----Registration----/////////
+
+
+"Create Your Word Bucket" = "Mewujudkan Word Bucket anda";
+"Your Name" = "Nama anda";
+"Type your name" = "Taipkan nama anda";
+"Email" = "Emel";
+"Type your email" = "Taipkan emel anda";
+"Password" = "Kata laluan";
+"Join" = "Sertai";
+"JOIN WITH FACEBOOK" = "Sertai dengan Facebook";
+"JOIN WITH TWITTER" = "Sertai dengan Twitter";
+"By clicking Join you are indicating that you have read and agreed to the Privacy Policy and Terms of Service." = "Setelah klik Sertai anda menyatakan bahawa anda telah membaca dan bersetuju dengan Polisi Privasi dan Syarat-Syarat Perkhidmatan.";
+
+// not found in list
+"Type your password" = "Type your password";
+
+
+////////---Login-----/////////
+
+// not found in list
+"Login to Word Bucket" = "Login to Word Bucket";
+"Forgotten password?" = "Forgotten password?";
+"LOGIN WITH FACEBOOK" = "LOGIN WITH FACEBOOK";
+"LOGIN WITH TWITTER" = "LOGIN WITH TWITTER";
+
+////////---Splash-----/////////
+
+"Your Word Bucket name" = "Nama Word Bucket anda";
+"Type your Word Bucket name" = "Taipkan nama Word Bucket anda";
+"Your Word Bucket Avatar" = "Avatar Word Bucket anda";
+"CHOOSE FROM GALLERY" = "Pilih dari Galeri";
+"Your native language" = "Bahasa ibunda anda";
+"The language you're learning" = "Bahasa yang anda sedang belajar";
+"FINISH" = "Tamat";
+"Beginner" = "Pemula";
+"Intermediate" = "Perantaraan";
+"Advanced" = "Lanjutan";
+
+// not found in list
+"CHOOSE YOUR NATIVE LANGUAGE" = "CHOOSE YOUR NATIVE LANGUAGE";
+"CHOOSE THE LANGUAGE" = "CHOOSE THE LANGUAGE";
+"Your language level" = "Your language level";
+"CHOOSE YOUR LEVEL" = "CHOOSE YOUR LEVEL";
+
+
+////////---Search Home-----/////////
+
+"Word Bucket" = "Word Bucket";
+"Search Word" = "Carian Perkataan";
+"%@'s Word Bucket" = "%@ oleh Word Bucket";
+"Choose Your Test" = "Pilih ujian anda";
+"ALL BUCKETS" = "Semua Bucket";
+"Explore Bucket" = "Menerokai Bucket";
+
+// not found in list
+"New" = "New";
+"Learning" = "Learning";
+"Learned" = "Learned";
+"Mistakes" = "Mistakes";
+
+
+////////--- Test-----/////////
+"TRUE" = "BETUL";
+"FALSE" = "SALAH";
+"Game Paused!" = "Permainan dijeda!";
+"Resume" = "Teruskan";
+"Restart" = "Mula semula";
+
+
+// not found in list
+"ENTER" = "ENTER";
+"Quit" = "Quit";
+
+////////--- Test Result-----/////////
+"Score:" = "Skor";
+"TEST AGAIN" = "Uji lagi";
+
+// not found in list
+
+////////---Search List-----/////////
+
+"ADD YOUR OWN MEANING" = "Tambah makna anda sendiri";
+
+
+////////---More List-----/////////
+"More" = "Lagi";
+"History" = "Sejarah";
+"Settings" = "Tetapan";
+"Rate Word Bucket" = "Mengadar Word Bucket";
+"Word Bucket credits" = "Kredit Word Bucket";
+"Offline Wishlist" = "Senarai Pilihan Offline";
+
+// not found in list
+"Learn English through games" = "Learn English through games";
+"Upgrade Word Bucket" = "Upgrade Word Bucket";
+"Word Bucket: How it works" = "Word Bucket: How it works";
+
+
+////////---Community List-----/////////
+"Bucket+" = "Bucket+";
+"Send a friend a word" = "Hantar perkataan kepada kawan";
+"Invite friend to Word Bucket" = "Menjemput kawan ke Word Bucket";
+"The Word Bucket Leaderboard" = "Papan Pendahulu Word Bucket";
+"Help us to improve Word Bucket" = "Membantu memperbaiki Word Bucket";
+
+////////---Bucket+-----/////////
+"SKYPE GAMES CLASSES" = "Kelas Permainan Skype";
+"DAILY FACEBOOK GAMES" = "Permainan Facebook harian";
+"WORDS OF THE WEEK" = "Perkataan-perkataan Mingguan";
+
+////////---Invite Your Friend-----/////////
+"Invite Your Friends" = "Menjemput kawan-kawan anda";
+"TEXT IT" = "Tekskan";
+"POST ON FACEBOOK" = "Memapar di Facebook";
+"TWEET IT" = "Tweetkan";
+
+// not found in list
+"SHARE ON EMAIL" = "SHARE ON EMAIL";
+
+
+////////---Words of the Week-----/////////
+"Words Of The Week" = "Perkataan-perkataan Mingguan";
+"Each week we pick 5 Words of the Week. Have you got these in your Word Bucket?" = "Kami memilih 5 Perkataan Mingguan setiap minggu. Adakah anda menerimanya di Word Bucket?";
+
+
+////////---Bucket Full-----/////////
+"UPGRADE" = "Naik taraf";
+
+// not found in list
+"BUCKET FULL" = "BUCKET FULL";
+"Congratulations!" = "Congratulations!";
+"You have saved 25 words in your Bucket." = "You have saved 25 words in your Bucket.";
+"Upgrade now to save and learn unlimited words in Word Bucket." = "Upgrade now to save and learn unlimited words in Word Bucket.";
+"You get:" = "You get:";
+"Unlimited storage for new words" = "Unlimited storage for new words";
+"Green Bucket game" = "Green Bucket game";
+"No ads" = "No ads";
+"Oops your Bucket is full!" = "Oops your Bucket is full!";
+
+"Upgrade now to save and learn more words in Word Bucket" = "Upgrade now to save and learn more words in Word Bucket";
+
+"With Word Bucket FREE you have 50 words and 25 new word saved" = "With Word Bucket FREE you have 50 words and 25 new word saved";
+"Upgrade now for $1.99 and get:" = "Upgrade now for $1.99 and get:";
+"Do you love Word Bucket?" = "Do you love Word Bucket?";
+
+
+////////---Your Offline WishList-----/////////
+"Your Offline Wishlist" = "Senarai pilihan offline anda";
+"Oops! It seems you have no Internet connection. Don't worry. Just add your words here and you can search and save them to your Bucket later." = "Alamak! Nampaknya anda tiada sambungan Internet. Jangan risau. Cuma tambahkan perkataan-perkataan anda di sini dan anda boleh mencari dan menyimpan mereka ke Bucket anda kemudian.";
+"Words already saved in Wishlist" = "Perkataan sudah disimpan di Senarai Pilihan";
+"Add %@ to Wishlist" = "Tambah ke Senarai Pilihan";
+
+
+////////---Your Offline WishList-----/////////
+"Total words searched" = "Jumlah perkataan yang telah dicari";
+"Words saved to Bucket" = "Perkataan sudah disimpan ke Bucket";
+"Total tests" = "Jumlah ujian";
+"Your pass %" = "Markah anda %";
+"Average time in Buckets (days)" = "Masa purata di Bucket (hari)";
+"Your Word Bucket History" = "Sejarah Word Bucket anda";
+
+//not found in list
+"Word left to test" = "Word left to test";
+
+
+
+
+////////---Settings-----/////////
+"Settings" = "Tetapan";
+"Total words" = "Jumlah perkataan";
+"Update" = "Kemaskini";
+"Save" = "Simpan";
+
+//not found in list
+"Place User Name Here" = "Place User Name Here";
+"Default Test Words" = "Default Test Words";
+"Sound settings" = "Sound settings";
+
+
+
+
+////////---Word Bucket Credits-----/////////
+"Word Bucket Credits:" = "Kredit Word Bucket";
+
+//not found in list
+"Word Bucket is supported by:" = "Word Bucket is supported by:";
+
+////////---Info Screen-----/////////
+"Never lose words again by saving to your personal Word Bucket. You can even add your own translations." = "Tidak akan hilang perkataan-perkataan lagi dengan menyimpan ke Word Bucket peribadi anda. Anda juga boleh menambah terjemahan anda sendiri.";
+"FIND AND LEARN NEW WORDS" = "Mencari dan belajar perkataan-perkataan baru";
+"SEARCH" = "Carian";
+"SAVE" = "Simpan";
+
+//not found in list
+"Your dictionary, your notebook and your language teacher!" = "Your dictionary, your notebook and your language teacher!";
+"Find translation for the words and meanings you're learning." = "Find translation for the words and meanings you're learning.";
+"Learn words with fun tests and games. To practise move your new words (and the 50 starter words you've already got) from White to Orange to Green." = "Learn words with fun tests and games. To practise move your new words (and the 50 starter words you've already got) from White to Orange to Green.";
+"Be careful, wrong answers goes to Red to start again!" = "Be careful, wrong answers goes to Red to start again!";
+"PLAY" = "PLAY";
+
+
+////////---Learn english through games-----/////////
+
+//not found in list
+"TRY A FREE CLASS" = "TRY A FREE CLASS";
+
+
+////////---Green test and instrucion-----/////////
+"%@ Words Safe" = "%@ perkataan selamat";
+"%@ Words In Danger" = "%@ perkataan dalam bahaya";
+"Turn your phone now" = "Pusing telefon anda sekarang";
+
+//not found in list
+"Practise Green Words" = "Practise Green Words";
+"PLAY GREEN GAME" = "PLAY GREEN GAME";
+"SAVE IN DANGER GREEN WORDS" = "SAVE IN DANGER GREEN WORDS";
+"Drag and drop words to play" = "Drag and drop words to play";
+
+
+///////-----Alert String-------//////
+
+"%@ added to your Word Bucket" = "%@ sudah ditambah ke Word Bucket anda";
+
+"Just found the word \"%@\" in @Wordbucket. Great app to find and learn new words." = "Baru menemui perkataan \"%@\" di @Wordbucket. Aplikasi hebat untuk mencari dan belajar perkataan-perkataan baru. Wordbucket.com";
+
+"Oops! It looks like you have no words in your White Bucket. Search and save new words now." = "Alamak! Nampaknya anda tiada perkataan di dalam Bucket Putih anda. Cari dan simpan perkataan-perkataan baru sekarang.";
+
+"Good work! You currently have no words in your Red Bucket. Only words that you get wrong in the other colours go here." = "Bagus! Anda kini tiada perkataan di dalam Bucket Merah anda. Hanya perkataan yang dijawab salah pada warna-warna lain pergi ke sini.";
+
+//not found in list
+"Please enter your meaning" = "Please enter your meaning";
+"Game Over." = "Game Over.";
+"Facebook already login" = "Facebook already login";
+"Successfully posted '%@'.\nPost ID: %@" = "Successfully posted '%@'.\nPost ID: %@";
+"You have corrected all the words" = "You have corrected all the words";
+
+"Sorry! To play the Green game you need at least 12 words in your Green Bucket. Move words here by testing your Orange words." = "To play the Green game you need at least 12 words in your Green Bucket. Move words here by testing your Orange words.";
+
+"Sorry you need 12 words here before you can try to save your In Danger words." = "You need 12 words here before you can try to save your In Danger words.";
+
+"Do you know this %@ word? \"%@\" I just found it in Word Bucket. FREE to download for iOS and Android." = "Do you know this %@ word? \"%@\" I just found it in Word Bucket. FREE to download for iOS and Android.";
+
+"Do you know this %@ word? \"%@\" I just found it in" = "Do you know this %@ word? \"%@\" I just found it in";
+
+"Great app to find and learn new words & FREE to download for iOS and Android." = "Great app to find and learn new words & FREE to download for iOS and Android.";
+
+"Please enter any word." = "Please enter a word.";
+
+"Native and Target language cannot be same." = "Native and Target language cannot be same.";
+
+"Are you sure you want to delete '%@'?" = "Are you sure you want to delete '%@'?";
+
+"Please enter your translation" = "Please enter your translation";
+
+"You need at least 12 words in your Green Bucket to test. To add words just practice your words in the Orange tests." = "You need at least 12 words in your Green Bucket to test. To add words just practice your words in the Orange tests.";
+
+"Please enter user name." = "Please enter user name.";
+
+
+
+
+"You need at least %d words in White Bucket to test. Search and save new words now." = "You need at least %d words in White Bucket to test. Search and save new words now.";
+
+"Sorry!" = "Sorry!";
+
+"You currently don't have enough words (%d) in your Red Bucket to test. Only words that you get wrong in the other colours go here." = "You currently don't have enough words (%d) in your Red Bucket to test. Only words that you get wrong in the other colours go here.";
+
+"Good work!" = "Good work!";
+
+"To practise your Orange words you need to activate your %@ keyboard. Don't worry, it's easy to do in settings and you only have to do it once.\n Just go to General and find Keyboard, then Keyboards and finally Add New Keyboard." = "To practise your Orange words you need to activate your %@ keyboard. Don't worry, it's easy to do in settings and you only have to do it once.\n Just go to General and find Keyboard, then Keyboards and finally Add New Keyboard.";
+
+"Woah there!" = "Woah there!";
+
+"You need at least %d words in your Orange Bucket to test. To add words just practice your words in the White tests." = "You need at least %d words in your Orange Bucket to test. To add words just practice your words in the White tests.";
+
+"You need at least %d words in White, Orange and Red Bucket to test. Search and save new words now." = "You need at least %d words in White, Orange and Red Bucket to test. Search and save new words now.";
+
+"Oops!" = "Oops!";
+"OK" = "OK";
+
+"Share on Facebook" = "Share on Facebook";
+"Share on Twitter" = "Share on Twitter";
+"Cancel" = "Cancel";
+"Add" = "Add";
+"Remove" = "Remove";
+
+// Need to add everywhere
+
+"Add Your Own Meaning" = "Add Your Own Meaning";
+"Searched Word" = "Searched Word";
+"Your Translation:" = "Your Translation:";
+"Type your translation" = "    Type your translation";
+"Check out Word Bucket. It's a great app for finding and learning new words. FREE to download for Android and iOS." = "Check out Word Bucket. It's a great app for finding and learning new words. FREE to download for Android and iOS.";
+
+"Are you learning a language? Find and learn new words with @WordBucket" = "Are you learning a language? Find and learn new words with @WordBucket";
+
+"Check out <a href=\"http://www.wordbucket.com\">Word Bucket.</a> It's a great app for finding and learning new words. FREE to download for Android and iOS." = "Check out <a href=\"http://www.wordbucket.com\">Word Bucket.</a> It's a great app for finding and learning new words. FREE to download for Android and iOS.";
+
+"Word Bucket - find and learn new words" = "Word Bucket - find and learn new words";
+
+
+//LATER ADDED
+"You need at least 12 words In Danger to play. To add words just practise your words in the Green game."="You need at least 12 words In Danger to play. To add words just practise your words in the Green game.";
+"Finished" = "Finished";
+
+"You have no words in your Orange Bucket. To add words to Orange you must do the White Bucket tests." = "You have no words in your Orange Bucket. To add words to Orange you must do the White Bucket tests";
+
+"You have no words in your Green Bucket. To add words to Green you must do the Orange Bucket tests." = "You have no words in your Green Bucket. To add words to Green you must do the Orange Bucket tests";
+
+"Good work! You have no words in your Red Bucket. Only words that you get wrong in the other colours go here." = "Good work! You have no words in your Red Bucket. Only words that you get wrong in the other colours go here";
+
+"You have no words in your White Bucket.  Search and save more new words!" = "You have no words in your White Bucket.  Search and save more new words!";
+
+
+"Sorry! You need at least %d words in your White Bucket to do a test. Search and save more new words!" = "Sorry! You need at least %d words in your White Bucket to do a test. Search and save more new words!";
+
+"Sorry! You need at least 12 words in your Green Bucket to do a test. Do more Orange Bucket tests!" = "Sorry! You need at least 12 words in your Green Bucket to do a test. Do more Orange Bucket tests!";
+
+"Good work! You don't have enough words (%d) in your Red Bucket to do a test. Only words that you get wrong in the other colours go here." = "Good work! You don't have enough words (%d) in your Red Bucket to do a test. Only words that you get wrong in the other colours go here.";
+
+"Sorry! You need at least %d Orange Words to do a test. Do more White Bucket tests!" = "Sorry! You need at least %d Orange Words to do a test. Do more White Bucket tests!";
+
+
+"Good work! You don't have enough words (12) in danger to play. Only words you get wrong in the Green Game go here" = "Good work! You don't have enough words (12) in danger to play. Only words you get wrong in the Green Game go here";
+
+"SAVE GREEN WORDS IN DANGER" = "SAVE GREEN WORDS IN DANGER";
+
+
+"Help" = "  Ayuda";
+"Your native language and the language you're learning can not be the same." = "Your native language and the language you're learning can not be the same.";
+"Perfect game! You scored 12 out of 12." = "Perfect game! You scored 12 out of 12.";
+"To give a letter an accent just hold it down and select the correct one." = "To give a letter an accent just hold it down and select the correct one.";
+
+
+
+
+"UPGRADE NOW" = "UPGRADE NOW";
+
+

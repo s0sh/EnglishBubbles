@@ -1,0 +1,426 @@
+/* Localized versions of Info.plist keys */
+
+// zh-Hans - Simplified
+
+//zh_CN for Simp. Chinese (简体中文)
+/* Localized versions of Info.plist keys */
+
+
+////////----Registration----/////////
+
+
+"Create Your Word Bucket" = "创建您的Word Bucket";
+"Your Name" = "您的姓名";
+"Type your name" = "输入您的姓名";
+"Email" = "电子邮件";
+"Type your email" = "输入您的电子邮件";
+"Password" = "密码";
+"Join" = "加入";
+"JOIN WITH FACEBOOK" = "通过Facebook加入";
+"JOIN WITH TWITTER" = "通过Twitter加入";
+"By clicking Join you are indicating that you have read and agreed to the Privacy Policy and Terms of Service." = "通过点击加入，您即表明您已经阅读并同意隐私权政策和服务条款。";
+
+// not found in list
+"Type your password" = "Type your password";
+
+
+////////---Login-----/////////
+
+// not found in list
+"Login to Word Bucket" = "Login to Word Bucket";
+"Forgotten password?" = "Forgotten password?";
+"LOGIN WITH FACEBOOK" = "LOGIN WITH FACEBOOK";
+"LOGIN WITH TWITTER" = "LOGIN WITH TWITTER";
+
+////////---Splash-----/////////
+
+"Your Word Bucket name" = "您的Word Bucket名称";
+"Type your Word Bucket name" = "输入您的Word Bucket名称";
+"Your Word Bucket Avatar" = "您的Word Bucket头像";
+"CHOOSE FROM GALLERY" = "從图库挑選";
+"Your native language" = "您的母语";
+"The language you're learning" = "您要学习的语言";
+"FINISH" = "完成";
+"Beginner" = "初级";
+"Intermediate" = "中级";
+"Advanced" = "高级";
+
+// not found in list
+
+"CHOOSE YOUR NATIVE LANGUAGE" = "選擇您的母語";
+
+"Your language level" = "您的語言程度";
+"CHOOSE YOUR LEVEL" = "選擇您的程度";
+
+
+"CHOOSE THE LANGUAGE you're learning" = "選擇您正在學習的語言";
+
+////////---Search Home-----/////////
+
+"Word Bucket" = "Word Bucket";
+"Search Word" = "搜索词汇";
+"%@'s Word Bucket" = "%@ 的 Word Bucket";
+"Choose Your Test" = "选择测验";
+"ALL BUCKETS" = "全部";
+"Explore Bucket" = "浏览Bucket";
+
+// not found in list
+"New" = "新单词";
+"Learning" = "学习";
+"Learned" = "已经学习";
+"Mistakes" = "错误";
+
+
+////////--- Test-----/////////
+"TRUE" = "对";
+"FALSE" = "错";
+"Game Paused!" = "游戏暂停！";
+"Resume" = "恢复";
+"Restart" = "重新开始";
+
+
+// not found in list
+"ENTER" = "输入您的密码";
+"Quit" = "退出";
+
+
+////////--- Test Result-----/////////
+"Score:" = "得分";
+"TEST AGAIN" = "再测验";
+
+// not found in list
+
+////////---Search List-----/////////
+
+"ADD YOUR OWN MEANING" = "添加您自己的意思";
+
+
+////////---More List-----/////////
+"More" = "更多";
+"History" = "历史记录";
+"Settings" = "设置";
+"Rate Word Bucket" = "给Word Bucket打分";
+"Word Bucket credits" = "Word Bucket的声望";
+"Offline Wishlist" = "离线愿望清单";
+
+// not found in list
+"Learn English through games" = "与 English Bubble 一起通过游戏学习英语";
+"Update Word Bucket" = "更新Word Bucket";
+"Word Bucket: How it works" = "Word Bucket：如何使用";
+
+
+////////---Community List-----/////////
+"Bucket+" = "Bucket+";
+"Send a friend a word" = "向朋友发送词汇";
+"Invite friend to Word Bucket" = "邀请朋友到Word Bucket";
+"The Word Bucket Leaderboard" = "Word Bucket排Ok榜";
+"Help us to improve Word Bucket" = "帮忙改善Word Bucket";
+
+////////---Bucket+-----/////////
+"SKYPE GAMES CLASSES" = "Skype游戏班";
+"DAILY FACEBOOK GAMES" = "Facebook每日游戏";
+"WORDS OF THE WEEK" = "本周词汇";
+
+////////---Invite Your Friend-----/////////
+"Invite Your Friends" = "邀请朋友";
+"TEXT IT" = "传送短信";
+"POST ON FACEBOOK" = "发布到Facebook";
+"TWEET IT" = "推文";
+
+// not found in list
+"SHARE ON EMAIL" = "从EMAIL分享";
+
+
+////////---Words of the Week-----/////////
+"Words Of The Week" = "本周词汇";
+"Each week we pick 5 Words of the Week. Have you got these in your Word Bucket?" = "我们每周选出5个本周词汇。您的Word Bucket有收到吗？";
+
+
+////////---Bucket Full-----/////////
+"UPGRADE" = "升级";
+
+// not found in list
+
+
+"BUCKET FULL" = "单词篮已满";
+"Congratulations!" = "恭喜！";
+"You have saved 25 words in your Bucket." = "您已存入25个单词在您的单词篮里";
+"Upgrade now to save and learn unlimited words in Word Bucket." = "现在就更新的Word Bucket来储存与学习无限制的单词";
+"You get:" = "您将获得：";
+"Unlimited storage for new words" = "无限储存的新单词";
+"Green Bucket game" = "绿单词篮游戏";
+"No ads" = "无广告";
+"Oops your Bucket is full!" = "糟糕您的单词篮已满！";
+
+"Upgrade now to save and learn more words in Word Bucket" = "现在就进行更新，使用Word Bucket来储存和学习更多的单词";
+
+"With Word Bucket FREE you have 50 words and 25 new word saved" = "使用Word Bucket免费版，您能拥有50个单词并存储25个新单词。";
+"Upgrade now and get:" = "现在更新并获得：";
+"Do you love Word Bucket?" = "你喜欢Word Bucket吗？";
+
+
+////////---Your Offline WishList-----/////////
+"Your Offline Wishlist" = "您的离线愿望清单";
+"Oops! It seems you have no Internet connection. Don't worry. Just add your words here and you can search and save them to your Bucket later." = "糟糕！看来您没有互联网连接。别担心。只需在这里添加您的词汇，之后可以查找并将之保存到您的Bucket中。";
+"Words already saved in Wishlist" = "词汇早已保存在愿望清单中";
+"Add %@ to Wishlist" = "添加到愿望清单";
+
+
+////////---Your Offline WishList-----/////////
+"Total words searched" = "已搜索的总字数";
+"Words saved to Bucket" = "词汇已保存到Bucket";
+"Total tests" = "	测验总数";
+"Your pass %" = "您的及格率 %";
+"Average time in Buckets (days)" = "在Buckets的平均时间（天数）";
+"Your Word Bucket History" = "您的Word Bucket历史纪录";
+
+//not found in list
+"Word left to test" = "待测验单词";
+
+
+
+
+////////---Settings-----/////////
+"Settings" = "设置";
+"Total words" = "总字数";
+"Update" = "更新";
+"Save" = "保存";
+
+//not found in list
+
+"Place User Name Here" = "在这里输入使用者名称";
+"Default Test Words" = "默认测试单词量";
+"Sound settings" = "音效设定";
+
+
+
+////////---Word Bucket Credits-----/////////
+"Word Bucket Credits" = "Word Bucket的声望";
+
+//not found in list
+"Word Bucket is supported by:" = "Word Bucket 由以下组织提供支持：";
+
+////////---Info Screen-----/////////
+"Never lose words again by saving to your personal Word Bucket. You can even add your own translations." = "保存到您个人的Word Bucket中，不再丢失词汇。您甚至可以添加自己的翻译。";
+"FIND AND LEARN NEW WORDS" = "查找并学习新词汇";
+"SEARCH" = "搜索";
+"SAVE" = "保存";
+
+//not found in list
+"Your dictionary, your notebook and your language teacher!" = "您的字典, 您的笔记本与您的语言教师!";
+"Find translation for the words and meanings you're learning." = "首先翻译您正在学习的单词与意思。";
+"Learn words with fun tests and games. To practise move your new words (and the 50 starter words you've already got) from White to Orange to Green." = "藉由有趣的测验与游戏学习单词。移动您的新单词(以及您已经学到的50个单词)从白色到橘色到绿色来学习。";
+"Be careful, wrong answers go to Red to start again!" = "请注意，错误的答案到达红色后将重新开始！";
+"PLAY" = "开始游戏";
+
+
+
+////////---Learn english through games-----/////////
+
+//not found in list
+"TRY A FREE CLASS" = "试试免费课程";
+
+
+////////---Green test and instrucion-----/////////
+"%@ Words Safe" = "%@ 个词汇安全";
+"%@ Words In Danger" = "%@ 个词汇在危险中";
+"Turn your phone now" = "转动您的手机";
+
+//not found in list
+
+
+"Practise Green Words" = "试试免费课程";
+"TEST ALL GREEN WORDS" = "测试所有绿色单词";
+"SAVE IN DANGER GREEN WORDS" = "储存危险的绿色单词";
+"Drag and drop words to play" = "拖移并丢下单词来开始游戏";
+
+
+///////-----Alert String-------//////
+
+"%@ added to your Word Bucket" = "%@ 已添加到您的Word Bucket中";
+
+"Just found the word \"%@\" in @Wordbucket. Great app to find and learn new words." = "刚在@Wordbucket找到这个字 \"%@\"。查找并学习新词汇的好应用程序。";
+
+"Oops! It looks like you have no words in your White Bucket. Search and save new words now." = "糟糕！看来您的白色Bucket中没有词汇。搜索并保存新词汇。";
+
+"Good work! You currently have no words in your Red Bucket. Only words that you get wrong in the other colours go here." = "干得好！您的红色Bucket中目前没有词汇。只有您在其他颜色中答错的词汇才会进入这里。";
+
+//not found in list
+"Please enter your meaning" = "请输入您的意思";
+"Game Over." = "游戏结束";
+
+"Facebook already login" = "Facebook already login";
+
+"Successfully posted '%@'.\nPost ID: %@" = "成功贴上 '%@'.\nPost ID: %@ ";
+//"You have corrected all the words" = "You have corrected all the words";
+
+
+
+
+"Great app to find and learn new words & FREE to download for iOS and Android." = "发现与学习新单词最棒的应用程序免费下载到的iOS与Android的";
+
+"Are you sure you want to delete '%@'?" = "您确定您想要删除 '%@'？";
+"Please enter your translation" = "请输入您的翻译";
+
+"Please enter any word." = "请输入单词";
+
+//"Native and Target language cannot be same." = "Native and Target language cannot be same.";
+
+"Your native language and the language you're learning can not be the same." = "您的母语与您想要学习的语言不能一样";
+
+
+"Please enter user name." = "请输入使用者名称";
+"Perfect game! You scored 12 out of 12." = "表现得很好！您总共在12分里拿了12分";
+"Sorry!" = "很抱歉！";
+"Good work!" = "做得好！";
+"Woah there!" = "哇！";
+"Oops!" = "糟糕！";
+"OK" = "好的";
+
+"Sorry you need 12 words here before you can try to save your In Danger words." = "You need 12 words here before you can try to save your In Danger words.";
+"You need at least 12 words in your Green Bucket to test. To add words just practice your words in the Orange tests." = "You need at least 12 words in your Green Bucket to test. To add words just practice your words in the Orange tests.";
+"Sorry! To play the Green game you need at least 12 words in your Green Bucket. Move words here by testing your Orange words." = "To play the Green game you need at least 12 words in your Green Bucket. Move words here by testing your Orange words.";
+"You need at least %d words in White Bucket to test. Search and save new words now." = "您的白单词Bucket里至少需要10个单词。现在就搜寻并储存新单词。";
+
+
+
+"You currently don't have enough words (%d) in your Red Bucket to test. Only words that you get wrong in the other colours go here." = "You currently don't have enough words（%d）in your Red Bucket to test. Only words that you get wrong in the other colours go here.";
+
+
+
+"To practise your Orange words you need to activate your %@ keyboard. Don't worry, it's easy to do in settings and you only have to do it once.\n Just go to General and find Keyboard, then Keyboards and finally Add New Keyboard." = "您需要开启您的%@键盘来学习您的橘色单词。别担心，这项设定相当简单而且您只需要做一次即可。这样做就对了。";
+
+
+
+"You need at least %d words in your Orange Bucket to test. To add words just practice your words in the White tests." = "You need at least %d words in your Orange Bucket to test. To add words just practice your words in the White tests.";
+
+"You need at least %d words in White, Orange and Red Bucket to test. Search and save new words now." = "You need at least %d words in White, Orange and Red Bucket to test. Search and save new words now.";
+
+
+
+"Share on Facebook" = "Share on 分享在脸书上";
+"Share on Twitter" = "Share on 分享在推特上";
+"Cancel" = "取消";
+"Add" = "加入";
+"Remove" = "移除";
+
+
+
+// Need to add everywhere
+
+"Add Your Own Meaning" = "增加您自己的解释";
+"Searched Word" = "寻找过的单词";
+"Your Translation:" = "您的翻译：";
+"Type your translation" = "输入您的翻译";
+
+"Check out Word Bucket. It's a great app for finding and learning new words. FREE to download for Android and iOS." = "试试Word Bucket。免费下载到的iOS与Android的";
+
+"Are you learning a language? Find and learn new words with @WordBucket" = "您正在学习语言吗？在Word Bucket一起寻找并学习新单词 @WordBucket";
+
+"Check out <a href=\"http://www.wordbucket.com\">Word Bucket.It's a great app for finding and learning new words. FREE to download for Android and iOS." = "试试的<a href=\http://www.wordbucket.com\">字斗。发现与学习新单词最棒的应用免费下载到的iOS与Android的";
+
+"Check out <a href=\"http://www.wordbucket.com\">Word Bucket.</a> It's a great app for finding and learning new words. FREE to download for Android and iOS." = "试试的<a href=\http://www.wordbucket.com\">Word Bucket.</a>发现与学习新单词最棒的应用免费下载到的iOS与Android的";
+
+"Word Bucket - find and learn new words" = "Word Bucket寻找并学习新单词";
+
+
+
+//LATER ADDED
+"You need at least 12 words In Danger to play. To add words just practise your words in the Green game."="在您尝试储存您的危险单词前，您需要12个单词在这边。";
+
+"Finished" = "游戏结束";
+
+"You have no words in your Orange Bucket. To add words to Orange you must do the White Bucket tests." = "Y抱歉！您的X1 Bucket中目前没有词汇。要新增词汇，只需在X2测验中练习您的词汇。";
+
+"You have no words in your Green Bucket. To add words to Green you must do the Orange Bucket tests." = "抱歉！您的X1 Bucket中目前没有词汇。要新增词汇，只需在X2测验中练习您的词汇。";
+
+"Good work! You have no words in your Red Bucket. Only words that you get wrong in the other colours go here." = "干得好！您的红色Bucket中目前没有词汇。只有您在其他颜色中答错的词汇才会进入这里。";
+
+"You have no words in your White Bucket. Search and save more new words!" = "糟糕！看来您的白色Bucket中没有词汇。搜索并储存新词汇!";
+
+"Sorry! You need at least %d words in your White Bucket to do a test. Search and save more new words!" = "您至少需要%d 单词在您的白单词篮里。现在就搜寻并储存新单词";
+
+"Sorry! You need at least 12 words in your Green Bucket to do a test. Do more Orange Bucket tests!" = "开始测验您至少需要12个单词在您的绿色单词篮里。练习您的单词在橘色测验里来增加单词!";
+
+"Good work! You don't have enough words (%d) in your Red Bucket to do a test. Only words that you get wrong in the other colours go here." = "做得好!您现在没有足够的单词（%d）在您的红色单词篮里供测验。只有您在其他颜色答错的单词在这里出现.";
+
+"Sorry! You need at least %d Orange Words to do a test. Do more White Bucket tests!" = "您至少需要%d 单词在您的橘色单词篮里。只要在白色测验里练习您的单词就能增加新单词!";
+
+"Good work! You don't have enough words (12) in danger to play. Only words you get wrong in the Green Game go here" = "做得好! 在您尝试储存您的危险单词前，您需要12个单词在这边.";
+
+"SAVE GREEN WORDS IN DANGER" = "储存危险的绿色单词";
+
+"PLAY GREEN GAME" = "练习绿色单词";
+
+"UPGRADE NOW" = "现在升级";
+
+"No internet connection!" = "没有互联网连接可用";
+
+
+
+
+"Help" = "Help";
+
+"To give a letter an accent just hold it down and select the correct one." = "To give a letter an accent just hold it down and select the correct one.";
+
+"CHOOSE THE LANGUAGE" = "CHOOSE THE LANGUAGE";
+
+"Do you know this %@ word? \"%@\" I just found it in" = "Do you know this %@ word? \"%@\" I just found it in";
+
+//Added:
+
+"Learn" = "学习";
+"More" = "更多";
+"Community" = "社区";
+"English" = "英语";
+"Share" = "分享";
+
+"You need at least %d words in your Word Bucket to test. Search and save new words!" = "您的白Word Bucket里至少需要10个单词。现在就搜寻并储存新单词。";
+
+
+"This project received grant aid from Galway Rural Development Company Ltd., which is financed by the Irish Government under the Rural Development Programme Ireland 2007-2013 and by the European Agricultural Fund for the Rural Development Programme (EARDF): Europe investing in Rural Areas." ="这个项目获得Galway Rural Development Company Ltd.的无偿援助，这家公司由爱尔兰政府在“爱尔兰2007-2013年农村发展计划”及“欧洲农业农村发展计划基金 (EARDF)：欧洲农村地区投资下资助。";
+
+"Done" = "完成";
+"On" = "开";
+"Off" = "关";
+"Yes" = "是";
+"No" = "不";
+
+"Spanish" = "Español (西班牙语)";
+"Arabic" = "(阿拉伯语) العربية";
+"Chinese" = "中文";
+"English" = "English (英语)";
+"French" = "Français (法语)";
+"German" = "Deutsch (德国人)";
+
+"Italian" = "Italiano (意大利语)";
+"Japanese" = "日本語 (日本)";
+"Korean" = "한국어 (朝鲜语)";
+"Portuguese" = "Português (葡萄牙人)";
+"Russian" = "Русский (俄语)";
+
+
+
+// For email sharing
+"Email Do you know this %@ word? \"%@\" I just found it in Word Bucket. FREE to download for iOS and Android." = "<html><body>您知道这个单词吗？\"%@\" 我正在<a href=\"http://www.wordbucket.com\">Word Bucket</a>找到它。免费下载到的iOS与Android的</body></html>";
+
+// For facebook sharing
+"Do you know this %@ word? \"%@\" I just found it in Word Bucket. FREE to download for iOS and Android." = "您知道这个单词吗？\"%@\" 我正在Word Bucket找到它。免费下载到的iOS与Android的";
+
+
+"Thank you for upgrading Word Bucket. It may take a few minutes for iCloud to transfer your words. Once it's done you can enjoy all the great Word Bucket features. Excited?" = "感谢您对Word Bucket进行升级。iCloud可能需要几分钟的时间对您的单词进行转移。一旦完成后您就可以享受Word Bucket所有的强大功能了。觉得兴奋吗？";
+
+
+"Thanks for downloading Word Bucket. To get the best from Word Bucket we recommend you set up iCloud in your iPhone settings to store all your new words online." = "感谢您下载Word Bucket。为了更好的使用Word Bucket，我们建议您在手机设置选项中设置好iCloud，这样就可以在线存储您的所有新单词了。";
+
+
+"Important! You haven't set up iCloud yet. If you want to transfer your words to the full version, set up iCloud in your iPhone settings now and then come back and upgrade here." = "重要信息！您还没有设置好iCloud。如果您想将您的单词转移至这一完整版本，那么请现在就在iPhone设置选项中设置好iCloud，之后再返回这里进行升级。";
+
+"Ignore" = "忽略";
+
+"By clicking Finish you are indicating that you have read and agreed to the <a href=\"http://wordbucket.com/en/privacy/\">Privacy Policy</a> and <a href=\"http://wordbucket.com/en/terms-of-service/\">Terms of Service</a>." = "通过点击“完成”，您代表您已经阅读并同意 <a href=\"http://wordbucket.com/en/privacy/\">;隐私条款</a> 和 <a href=\"http://wordbucket.com/en/terms-of-service/\">;服务条款</a>.";
+
+"Word Bucket Dictionaries & translation services" = "Word Bucket词典和翻译服务";
+
+"Word Bucket is powered by a selection of commercial and open source dictionaries and translation services including <a href = \"http://www.wiktionary.org/\"> Wiktionary </a>, licensed under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\"> Creative Commons Attribution-ShareAlike</a> license. For more information on the use of these dictionaries see our <a href=\"https://wordbucket.com/en/terms-of-service\">; Terms of Service</a>. " = "Word Bucket使用了一系列的商业和开源的词典和翻译服务包括 <a href = \"http://www.wiktionary.org/\"> Wiktionary </a>，通过了 <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\"> Creative Commons Attribution-ShareAlike</a> 授权。更多关于这些辞典的使用，请看我们的;<a href=\"http://wordbucket.com/terms-of-service\"> 服务条款</a>.";
+

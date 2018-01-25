@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6F3E6DE3B8DCF56CEBDDCF61B715774516431DEA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "cabf943b-af5d-324d-b24f-a04d70a7e5ce++7410" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6F3E6DE3B8DCF56CEBDDCF61B715774516431DEA" : 0,
+    "cabf943b-af5d-324d-b24f-a04d70a7e5ce++7410" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B7942F47-732E-422C-BBE7-1C43EC05BF80",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6F3E6DE3B8DCF56CEBDDCF61B715774516431DEA" : "EnglishBubbles\/",
+    "cabf943b-af5d-324d-b24f-a04d70a7e5ce++7410" : "EnglishBubbles\/WordBucket\/WordBucket\/TwitterAPI\/Twitter+OAuth\/Libraries%20&%20Headers\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WordBucket",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WordBucket\/WordBucket.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/Engbub\/wb-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F3E6DE3B8DCF56CEBDDCF61B715774516431DEA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/10.11.5.3\/svn\/wordbucket",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "cabf943b-af5d-324d-b24f-a04d70a7e5ce++7410"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15A284" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="JoinViewController">
+            <connections>
+                <outlet property="emailTextField" destination="4dM-co-Rit" id="7Sv-pq-uxH"/>
+                <outlet property="mainScroll" destination="WKX-Ym-HN7" id="W87-I8-x7e"/>
+                <outlet property="passwordTextField" destination="RrJ-ge-NeW" id="FPc-Sk-MBL"/>
+                <outlet property="signInButton" destination="JAU-O7-MR4" id="k6S-Lz-q1o"/>
+                <outlet property="signInFBButton" destination="dag-9Z-aic" id="qKb-1k-UVO"/>
+                <outlet property="signInGPButton" destination="ObM-dg-9Id" id="AYh-YU-vf9"/>
+                <outlet property="usernameTextField" destination="z3o-d8-Akh" id="svk-hz-71j"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="552"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" fixedFrame="YES" image="background.png" translatesAutoresizingMaskIntoConstraints="NO" id="H4d-Xo-1vn">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                </imageView>
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="WKX-Ym-HN7">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="557"/>
+                    <subviews>
+                        <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleAspectFit" fixedFrame="YES" image="logo_little" translatesAutoresizingMaskIntoConstraints="NO" id="oEM-Wq-rmJ">
+                            <rect key="frame" x="69" y="15" width="180" height="88"/>
+                        </imageView>
+                        <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="fiw-YW-xcX">
+                            <rect key="frame" x="13" y="313" width="296" height="54"/>
+                            <color key="backgroundColor" red="0.14678382609999999" green="0.44553755410000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        </view>
+                        <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="UeV-K4-9jy">
+                            <rect key="frame" x="13" y="114" width="296" height="251"/>
+                            <subviews>
+                                <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="dPQ-oZ-bem">
+                                    <rect key="frame" x="0.0" y="4" width="296" height="54"/>
+                                    <color key="backgroundColor" red="0.15389710877471108" green="0.23983451255148514" blue="0.67484379641616166" alpha="1" colorSpace="calibratedRGB"/>
+                                </view>
+                                <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="BvD-Sz-ope">
+                                    <rect key="frame" x="0.0" y="0.0" width="296" height="54"/>
+                                    <subviews>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Create Your Own Word Bucket" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Fe9-ij-Rum">
+                                            <rect key="frame" x="0.0" y="17" width="294" height="21"/>
+                                            <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="20"/>
+                                            <color key="textColor" red="0.9882352941176471" green="0.88235294117647056" blue="0.88627450980392153" alpha="1" colorSpace="calibratedRGB"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                    </subviews>
+                                    <color key="backgroundColor" red="0.099154988597962124" green="0.496786051347611" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                </view>
+                            </subviews>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        </view>
+                        <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="line" placeholder="Type your name" textAlignment="natural" minimumFontSize="17" background="text_input_field" translatesAutoresizingMaskIntoConstraints="NO" id="z3o-d8-Akh">
+                            <rect key="frame" x="30" y="205" width="260" height="28"/>
+                            <color key="textColor" red="0.26550662879999998" green="0.26550662879999998" blue="0.26550662879999998" alpha="1" colorSpace="calibratedRGB"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                            <textInputTraits key="textInputTraits"/>
+                        </textField>
+                        <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="line" placeholder="Type your email" textAlignment="natural" minimumFontSize="17" background="text_input_field" translatesAutoresizingMaskIntoConstraints="NO" id="4dM-co-Rit">
+                            <rect key="frame" x="30" y="265" width="260" height="25"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                            <textInputTraits key="textInputTraits"/>
+                        </textField>
+                        <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="line" placeholder="Type your password" textAlignment="natural" minimumFontSize="17" background="text_input_field" translatesAutoresizingMaskIntoConstraints="NO" id="RrJ-ge-NeW">
+                            <rect key="frame" x="30" y="324" width="260" height="25"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                            <textInputTraits key="textInputTraits" secureTextEntry="YES"/>
+                        </textField>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Your name" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eu2-ml-qan">
+                            <rect key="frame" x="31" y="178" width="93" height="21"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="15"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Email" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5zE-Yd-7uz">
+                            <rect key="frame" x="30" y="238" width="72" height="21"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="15"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Password" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4CR-v5-du7">
+                            <rect key="frame" x="30" y="297" width="72" height="21"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="15"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JAU-O7-MR4">
+                            <rect key="frame" x="11" y="369" width="300" height="45"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="12"/>
+                            <size key="titleShadowOffset" width="0.0" height="1"/>
+                            <state key="normal" title="JOIN" backgroundImage="button1">
+                                <color key="titleColor" red="0.36862745099999999" green="0.43921568630000002" blue="0.46666666670000001" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="titleShadowColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <state key="selected" backgroundImage="butoon1_hover">
+                                <color key="titleShadowColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <state key="highlighted" backgroundImage="butoon1_hover">
+                                <color key="titleColor" red="0.36862745098039218" green="0.4392156862745098" blue="0.46666666666666667" alpha="0.5" colorSpace="calibratedRGB"/>
+                            </state>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ObM-dg-9Id">
+                            <rect key="frame" x="11" y="497" width="298" height="48"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="12"/>
+                            <inset key="contentEdgeInsets" minX="11" minY="0.0" maxX="0.0" maxY="0.0"/>
+                            <state key="normal" title="JOIN WITH TWITTER" backgroundImage="twitter_btn">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <state key="disabled" backgroundImage="twitter_btn_hover">
+                                <color key="titleShadowColor" red="0.9079090910807549" green="0.90665791529415496" blue="0.92851283979696975" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="selected" backgroundImage="twitter_btn_hover"/>
+                            <state key="highlighted" backgroundImage="twitter_btn_hover"/>
+                            <state key="focused" backgroundImage="twitter_btn_hover"/>
+                            <connections>
+                                <action selector="joinWithTwitter:" destination="-1" eventType="touchUpInside" id="5E0-DW-agu"/>
+                            </connections>
+                        </button>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="ic_pencil" translatesAutoresizingMaskIntoConstraints="NO" id="Z9y-4v-BQG">
+                            <rect key="frame" x="113" y="380" width="28" height="26"/>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="By clicking Join you are indicating that you have read and agree to the Privacy Policy and Terms of Service." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HSm-eB-0ov">
+                            <rect key="frame" x="18" y="414" width="291" height="33"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="11"/>
+                            <color key="textColor" red="0.4680792298" green="0.4680792298" blue="0.4680792298" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dag-9Z-aic">
+                            <rect key="frame" x="11" y="449" width="298" height="48"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="12"/>
+                            <state key="normal" title="JOIN WITH FACEBOOK" backgroundImage="fb_btn">
+                                <color key="titleColor" red="0.98823529409999999" green="0.88235294119999996" blue="0.8862745098" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="highlighted" backgroundImage="fb_btn_hover"/>
+                            <connections>
+                                <action selector="joinWithFacebook:" destination="-1" eventType="touchUpInside" id="EsB-3P-Gmd"/>
+                            </connections>
+                        </button>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="ic_twitter" translatesAutoresizingMaskIntoConstraints="NO" id="Zcz-37-P16">
+                            <rect key="frame" x="74" y="509" width="30" height="26"/>
+                        </imageView>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="ic_facebook" translatesAutoresizingMaskIntoConstraints="NO" id="5tO-yw-w9v">
+                            <rect key="frame" x="74" y="460" width="16" height="27"/>
+                        </imageView>
+                    </subviews>
+                </scrollView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="489" y="225"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="background.png" width="320" height="480"/>
+        <image name="butoon1_hover" width="292" height="45"/>
+        <image name="button1" width="295" height="48"/>
+        <image name="fb_btn" width="295" height="48"/>
+        <image name="fb_btn_hover" width="292" height="45"/>
+        <image name="ic_facebook" width="14" height="26"/>
+        <image name="ic_pencil" width="26" height="26"/>
+        <image name="ic_twitter" width="25" height="22"/>
+        <image name="logo_little" width="162" height="97"/>
+        <image name="text_input_field" width="260" height="29"/>
+        <image name="twitter_btn" width="295" height="48"/>
+        <image name="twitter_btn_hover" width="292" height="45"/>
+    </resources>
+</document>
